@@ -1,0 +1,1 @@
+doxygen -s afterdoc.cfg
